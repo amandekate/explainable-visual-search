@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+torch
+transformers
+faiss-cpu
+numpy
+pillow
+pandas
+tqdm
