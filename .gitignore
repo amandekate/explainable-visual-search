@@ -39,3 +39,6 @@ data/faiss_index/*.faiss
 # Model Cache (Optional)
 # =========================
 .cache/
+
+# Embedding artifacts
+*.npy
