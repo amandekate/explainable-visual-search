@@ -1,0 +1,41 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# =========================
+# Virtual Environment
+# =========================
+venv/
+.env/
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Data & ML Artifacts
+# =========================
+data/images/
+data/embeddings/*.npy
+data/embeddings/*.pkl
+data/embeddings/*.csv
+data/faiss_index/*.faiss
+
+# =========================
+# Notebooks / Colab
+# =========================
+*.ipynb_checkpoints
+
+# =========================
+# Model Cache (Optional)
+# =========================
+.cache/
